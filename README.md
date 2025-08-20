@@ -8,6 +8,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋🏾,;+I'm+Clarence+:+),;+frond-end+developer+:+);" alt="/" />
 </h1>
 
+[![GitHub followers](https://img.shields.io/github/followers/specialbrocoli?style=social)](https://github.com/specialbrocoli)
+[![wakatime](https://wakatime.com/badge/user/208589f4-a926-45fc-91f5-b7089469382a.svg)](https://wakatime.com/@208589f4-a926-45fc-91f5-b7089469382a)
+![Profile views](https://komarev.com/ghpvc/?username=specialbrocoli&color=blueviolet)
+
 ## ⚙ **Languages-Frameworks-Tools**
 
 <br />
@@ -39,9 +43,6 @@ _Tools & platforms_
 <br />
 
 [![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/specialbrocoli/) [![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&labelColor=181717)](https://www.credly.com/users/webmaster) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat)](https://www.linkedin.com/in/clarence-webmaster/) [![Twitter](https://img.shields.io/badge/Twitter-000?logo=x)](https://x.com/silentwandarer) [![Discord](https://img.shields.io/badge/Dicord-5865F2?logo=discord&labelColor=181717)]() [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&labelColor=181717)](https://t.me/specialbrocoli)
-
-
-
 
 <!-- ********===Gh profile summary********=== -->
 
