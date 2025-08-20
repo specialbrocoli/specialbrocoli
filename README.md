@@ -40,24 +40,27 @@ _Tools & platforms_
 
 [![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/specialbrocoli/) [![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&labelColor=181717)](https://www.credly.com/users/webmaster) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat)](https://www.linkedin.com/in/clarence-webmaster/) [![Twitter](https://img.shields.io/badge/Twitter-000?logo=x)](https://x.com/silentwandarer) [![Discord](https://img.shields.io/badge/Dicord-5865F2?logo=discord&labelColor=181717)]() [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&labelColor=181717)](https://t.me/specialbrocoli)
 
-<!-- Gh profile summary -->
+
+
+
+<!-- ********===Gh profile summary********=== -->
 
 <h2 style="margin: 2.5em 0;">⚡ Stats ⚡</h2>
 
 <div align=center style="display: flex; flex-wrap:wrap; align-items: center; justify-content: center; gap: 0.8em;">
 
-<!-- Gh stats -->
+<!-- GitHub stats -->
 
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=specialbrocoli&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=specialbrocoli&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" align="center"/>
 
-<!-- Gh streaks -->
+<!-- GitHub streaks -->
 
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=specialbrocoli&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=specialbrocoli&count_private=true&theme=react&border_radius=10" alt="streak stats" align="center"/>
 </div>
 
   <!-- Most used languages -->
 
-  <div style="margin: 2em auto; max-width: fit-content;"><img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=specialbrocoli&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></div>
+  <div align='center' style='margin-top: 1em;'><img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=specialbrocoli&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weiGitHubt=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></div>
 
 <!-- Typewritter-2 -->
 <h3 align="center">
